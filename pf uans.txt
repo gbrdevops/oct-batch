@@ -1,0 +1,21 @@
+hcl uan:101486971627
+
+genpact uan:
+
+ASM UAN:100745476682
+
+IBM UAN:100971296672
+
+Oracle UAN:100971296672
+
+
+
+mmerging:merging is nothing but combining the code from one branch to other branch.
+
+when we are doing the merging we need to follow certain rules
+in my current project we are using pull req mechanism.
+
+my team lead email we are going to add the reviewer,my team lead review the code
+once he approve the code we ae going to merge the code into master branch.
+
+
